@@ -14,11 +14,11 @@
 
 ---
 
-Appwrite is a simple self-hosted backend server for web and mobile developers with a shiny dashboard and a very easy to use REST API.
+Appwrite is a simple self-hosted backend server for web and mobile developers with a shiny dashboard and is very easy to use REST API.
 
-Appwrite API services aims to make developers life a lot easier by hiding the complexity of common and repetitive software development tasks.
+Appwrite API services aim to make developers' life a lot easier by hiding the complexity of common and repetitive software development tasks.
 
-Using Appwrite you can easily manage user authentication with multiple sign-in methods, database for storing and querying user and teams data, storage and file management, image manipulation and cropping, scheduled cron tasks and many other features to help you get more results in faster times and with a lot less code.
+Using Appwrite, you can easily manage the user authentication with multiple sign-in methods, database for storing and querying user and teams' data, storage and file management, image manipulation and cropping, scheduled cron tasks and many other features. It also helps you to get more results faster and with very less code.
 
 [https://appwrite.io](https://appwrite.io)
 
@@ -86,7 +86,7 @@ For security issues, please email [security@appwrite.io](mailto:security@appwrit
 
 ## Follow Us
 
-Join our growing commuinty around the world! Follow us on both [Twitter](https://twitter.com/appwrite_io), [Facebook Page](https://www.facebook.com/appwrite.io), [Facebook Group](https://www.facebook.com/groups/appwrite.developers/) or join our live [Gitter community](https://gitter.im/appwrite/community) for more help, ideas and discussions.
+Join our growing community around the world! Follow us on both [Twitter](https://twitter.com/appwrite_io), [Facebook Page](https://www.facebook.com/appwrite.io), [Facebook Group](https://www.facebook.com/groups/appwrite.developers/) or join our live [Gitter community](https://gitter.im/appwrite/community) for more help, ideas and discussions.
 
 ## Contributing
 
